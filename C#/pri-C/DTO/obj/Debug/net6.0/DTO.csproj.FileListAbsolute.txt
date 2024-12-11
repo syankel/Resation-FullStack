@@ -1,0 +1,48 @@
+C:\A sari shwirtz-react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\A sari shwirtz-react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#\pri-C\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\bin\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\bin\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\DTO\obj\Debug\net6.0\ref\DTO.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.dll
+D:\final project c# - react\C#\pri-C\DTO\bin\Debug\net6.0\DTO.pdb
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.dll
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\DTO.pdb
+D:\final project c# - react\C#\pri-C\DTO\obj\Debug\net6.0\ref\DTO.dll

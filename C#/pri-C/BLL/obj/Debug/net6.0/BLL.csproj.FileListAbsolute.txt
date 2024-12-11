@@ -1,0 +1,68 @@
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.pdb
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.pdb
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.pdb
+C:\A sari shwirtz-react\C#\pri-C\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\BLL.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\BLL.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\DAL.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\DTO.dll
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\DAL.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\bin\Debug\net6.0\DTO.pdb
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\A sari shwirtz-react\C#-good!!!\pri-C\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפד\נשואות\שרי ינקלביץ\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.dll
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\BLL.pdb
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.dll
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.dll
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DAL.pdb
+D:\final project c# - react\C#\pri-C\BLL\bin\Debug\net6.0\DTO.pdb
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.dll
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\BLL.pdb
+D:\final project c# - react\C#\pri-C\BLL\obj\Debug\net6.0\ref\BLL.dll
